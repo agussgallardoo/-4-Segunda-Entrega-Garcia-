@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;    
+}
+
+.navbar-brand{
+    width: 400px;
+}
+.carousel-item{
+    width: 770px;
+}
+
+header{
+    background: rgb(251, 188, 0);
+}
+.textoo{
+    width: 100%;
+}
+@media (min-width: 900px) {
+    #carouselExample {
+        margin: 0 auto;
+        width: 70%;
+    .carousel-item img {
+        height: 650px;
+ }}   
+}    
